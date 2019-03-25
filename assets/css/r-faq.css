@@ -1,0 +1,10 @@
+/***
+ *	rFAQ Template Base
+ *	Date:	2018-06-13
+ */
+
+.faq-wrap {}
+	.faq-list {}
+		.faq-item {}
+			.faq-question {}
+			.faq-answer {}
